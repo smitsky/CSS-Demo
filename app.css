@@ -1,3 +1,29 @@
 h2 {
-    color: indigo;
+    color: red;
+}
+
+h1 {
+    color: purple;
+}
+
+button {
+    color: magenta;
+    background-color: cyan;
+}
+
+p {
+    color: olive;
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+}
+
+p:hover {
+    background-color: bisque;
+}
+
+p::first-line {
+    color: purple;
 }
