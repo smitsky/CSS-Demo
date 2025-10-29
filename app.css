@@ -3,7 +3,12 @@ h2 {
 }
 
 h1 {
-    color: purple;
+    color: red;
+    background-color: paleturquoise;
+    border: 1px solid black;
+    width: 300px;
+    padding: 50px;
+    margin: 100px;
 }
 
 button {
@@ -27,3 +32,4 @@ p:hover {
 p::first-line {
     color: purple;
 }
+
