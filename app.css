@@ -6,7 +6,7 @@ h1 {
     color: red;
     background-color: paleturquoise;
     border: 1px solid black;
-    width: 80px;
+    width: 160px;
     padding: 20px;
     margin: 20px;
 }
@@ -32,6 +32,7 @@ p:hover {
 p::first-line {
     color: purple;
 }
+
 
 
 
